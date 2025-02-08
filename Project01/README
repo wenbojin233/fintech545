@@ -1,0 +1,1 @@
+Just put the data.csv file and my jupyter notebook file at the same directory.
